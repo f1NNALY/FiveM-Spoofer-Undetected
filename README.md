@@ -1,30 +1,24 @@
-# CFX-Bypass
+# FiveM Spoofer
 
-**For the people who are having problems.**  
-
-Most likely not going to personally help you but you can ask other users about it here.
-
-https://discord.gg/bzfWPSsDfR
-
-**What's the purpose of this?**
-
-Program blocks the outbounding and inbounding calls from adhesive so they won't get to check your hwid from their auth server. Basically allows you to play FiveM on hwid banned computers.
-
-**How to use:**
-1. Clean Traces
-2. Enable Bypass
-3. Log in to new rockstar account without ban. The account must be unused, because fivem is banning the new accounts if your opening it without the bypass with hwid banned computer.
-4. Try joining server if it returns error, then disable the bypass and try joining the server. 
-5. NOTE: Don't ever open FiveM without the bypass. Otherwise they will ban your new rockstar account for using it in hwid banned computer.
-6. IMPORTANT: Enable the bypass before u leave server so "Destroy" call won't be sent to fivem when you leave server. It contains your hwid + ROS
-
-**Current status?**
-
-Seems to be working 14.02.2024
+FiveM Spoofer is a Windows application designed to optimize and clean cache files related to the FiveM gaming platform. It provides functionality to perform various tasks to enhance the gaming experience and optimize system performance. Unbans you from the server you are banned from.
 
 
+## Features
 
+### Spoofing
+- Provides spoofing capabilities to change system settings and clear system logs for privacy and security.
+- Emulates system files and network activity to protect user privacy and maintain anonymity.
 
+## Photo
 
-https://user-images.githubusercontent.com/94861415/149637151-cccf9bbc-be1d-4287-9bb1-375e6efdb87b.mp4
+![fivemspoofergui1](https://github.com/unknown144p/fivemspoofer/assets/93508554/3a75ed07-b6ed-4e39-9aff-045aaf378ba3)
 
+![fivemspoofergui2](https://github.com/unknown144p/fivemspoofer/assets/93508554/59be7753-105d-4382-96b2-88229ac93a9a)
+
+## Disclaimer
+
+This application is for educational and informational purposes only. The developers are not responsible for any misuse of this application.
+
+## License
+
+This project is licensed under [MIT License] (LICENSE).
